@@ -1,1 +1,58 @@
-{}
+{
+    "algemeen": {
+        "__comments__": [],
+        "jaar_van_datacollectie": 0
+    },
+    "patientgegevens": {
+        "geslacht": {},
+        "overlijden": {
+            "selectedChoices": {}
+        },
+        "etniciteit_vader": {},
+        "etniciteit_moeder": {},
+        "__comments__": []
+    },
+    "datacollectie": {
+        "algemeen": {
+            "taalproblemen": {
+                "selectedChoices": {}
+            },
+            "puberteitprepuberteit": {},
+            "insulineschema": {}
+        },
+        "metingen": {
+            "lengte": {},
+            "gewicht": {},
+            "systolische_bloeddruk": {},
+            "diastolische_bloeddruk": {}
+        },
+        "screenings": {
+            "coeliakie": {
+                "selectedChoices": {
+                    "Gebeurde screening naar coeliakie?": true
+                }
+            },
+            "schildklierimmuniteit": {
+                "selectedChoices": {}
+            },
+            "hypo_of_hyperthyreoidie": {
+                "selectedChoices": {}
+            },
+            "epilepsie": {
+                "selectedChoices": {}
+            },
+            "retinopathie": {
+                "selectedChoices": {}
+            },
+            "nefropathie": {
+                "selectedChoices": {}
+            },
+            "bloedlipiden": {
+                "selectedChoices": {}
+            },
+            "neuropathie": {
+                "selectedChoices": {}
+            }
+        }
+    }
+}
